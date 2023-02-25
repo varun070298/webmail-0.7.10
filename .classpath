@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="net/wastl/webmail/plugins/|org/webengruven/webmail/plugins/|org/webengruven/webmail/authenticators/|net/wastl/webmail/authenticators/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/net/wastl/webmail/authenticators"/>
+	<classpathentry kind="src" path="src/net/wastl/webmail/plugins"/>
+	<classpathentry kind="src" path="src/org/webengruven/webmail/authenticators"/>
+	<classpathentry kind="src" path="src/org/webengruven/webmail/plugins"/>
+	<classpathentry kind="lib" path="contrib/ant.jar"/>
+	<classpathentry kind="lib" path="contrib/cos.jar"/>
+	<classpathentry kind="lib" path="contrib/fop.jar"/>
+	<classpathentry kind="lib" path="contrib/jakarta-oro-2.0.6.jar"/>
+	<classpathentry kind="lib" path="contrib/javaOTP.jar"/>
+	<classpathentry kind="lib" path="contrib/mbox.jar"/>
+	<classpathentry kind="lib" path="contrib/nekohtml.jar"/>
+	<classpathentry kind="lib" path="contrib/servlet-2.3.jar"/>
+	<classpathentry kind="lib" path="contrib/xalan.jar"/>
+	<classpathentry kind="lib" path="contrib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="contrib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="contrib/xsltc.jar"/>
+	<classpathentry kind="lib" path="lib/javax_mail.jar"/>
+	<classpathentry kind="lib" path="lib/javax.mail_1.4.0.v201005080615.jar"/>
+	<classpathentry kind="lib" path="lib/javax.mail.jre15_1.4.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
